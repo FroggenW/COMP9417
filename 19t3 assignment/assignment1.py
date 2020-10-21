@@ -1,4 +1,4 @@
-#Written by Chang Wang(z5196324)
+#Written by Chang Wang
 #this code used KNN algorithm
 #it picked 9 column from the input file and dealed with these features
 #main aims to discuss the difference between using same algorithm but different features with other group members
