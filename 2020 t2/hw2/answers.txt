@@ -15,8 +15,8 @@
 *** Last revised: Mon 27 Jul 18:12:32 AEST 2020
 --- 
 --- Please add your details on the next two lines.
-*** Student Name:Chang Wang
-*** Student Number:z5196324
+*** Student Name:
+*** Student Number:
 --------------------------------------------------------------
 
 *** ANSWERS:
