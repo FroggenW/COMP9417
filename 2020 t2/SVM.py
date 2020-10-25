@@ -1,5 +1,5 @@
 
-# author: Chang Wang z5196324
+# author: Chang Wang
 # 20t2 COMP9417 GROUP PROJECT
 # data pre-processing and SVM classfier
 
